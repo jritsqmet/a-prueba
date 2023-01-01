@@ -1,0 +1,76 @@
+{
+  "trabajadores": [
+    {
+      "id": 1269863819,
+      "name": "Juan Ordoñes",
+      "email": "juano@correo.com",
+      "estatus": "activo"
+    },
+    {
+      "id": 1782945612,
+      "name": "María Perez",
+      "email": "perezmaria@correo.com",
+      "estatus": "activo"
+    },
+    {
+      "id": 8923455512,
+      "name": "Ximena Rodriguez",
+      "email": "xrodriguez@correo.com",
+      "estatus": "inactivo"
+    },
+    {
+      "id": 5629371293,
+      "name": "Carla Herrera",
+      "email": "charrera@correo.com",
+      "estatus": "activo"
+    },
+    {
+      "id": 9872541828,
+      "name": "Juan Cepeda",
+      "email": "juanjo@correo.com",
+      "estatus": "inactivo"
+    },
+    {
+      "id": 19871037263,
+      "name": "Angel Gómez",
+      "email": "agomez@correo.com",
+      "estatus": "activo"
+    },
+    {
+      "id": 6671824351,
+      "name": "Selena Barragán",
+      "email": "brragansele@correo.com",
+      "estatus": "inactivo"
+    },
+    {
+      "id": 98371729873,
+      "name": "Andrea Campos",
+      "email": "andreacampos@correo.com",
+      "estatus": "activo"
+    },
+    {
+      "id": 13428730984,
+      "name": "Sofía Miranda",
+      "email": "sofim@correo.com",
+      "estatus": "activo"
+    },
+    {
+      "id": 7864523419,
+      "name": "Miguel Pazmiño",
+      "email": "miguepasmiño@correo.com",
+      "estatus": "inactivo"
+    },
+    {
+      "id": "111",
+      "name": "222",
+      "estatus": "asda",
+      "email": "asda"
+    },
+    {
+      "name": "Juana",
+      "estatus": "activa",
+      "email": "@@@@",
+      "id": 98371729874
+    }
+  ]
+}
